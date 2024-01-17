@@ -4,7 +4,7 @@ using WebApiSolution.Domain.Models;
 
 namespace WebApiSolution.Services
 {
-    public class OrderService
+    public class OrderService: IOrderInteface
     {
         private readonly AppDbContext _dbContext;
 

@@ -1,0 +1,15 @@
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\bin\Debug\net8.0\WebApiSolution.Domain.deps.json
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\bin\Debug\net8.0\WebApiSolution.Domain.runtimeconfig.json
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\bin\Debug\net8.0\WebApiSolution.Domain.dll
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\bin\Debug\net8.0\WebApiSolution.Domain.pdb
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.csproj.AssemblyReference.cache
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.AssemblyInfoInputs.cache
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.AssemblyInfo.cs
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.sourcelink.json
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.dll
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\refint\WebApiSolution.Domain.dll
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.pdb
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\WebApiSolution.Domain.genruntimeconfig.cache
+C:\Users\gurik\Desktop\hello\.net_8_web_api\WebApiSolution\WebApiSolution.Domain\obj\Debug\net8.0\ref\WebApiSolution.Domain.dll

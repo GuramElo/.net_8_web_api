@@ -9,9 +9,9 @@ namespace WebApiApp_.Controllers
     [ApiController]
     public class OrdersController : ControllerBase
     {
-        private readonly OrderService _orderService;
+        private readonly IOrderInteface _orderService;
 
-        public OrdersController(OrderService orderService)
+        public OrdersController(IOrderInteface orderService)
         {
             _orderService = orderService;
         }

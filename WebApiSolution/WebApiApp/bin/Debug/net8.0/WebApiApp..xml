@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiApp.</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiApp_.Controllers.CustomersController.GetAllCustomers">
+            <summary>
+            იძლევა მომხმარებლების ჩამონათვალს
+            </summary>
+            <remarks>
+            იძლევა მომხმარებლების ჩამონათვალს
+            </remarks>
+            <returns>მომხმარებლების ჩამონათვალს</returns>
+        </member>
+        <member name="M:WebApiApp_.Controllers.CustomersController.GetCustomerById(System.Int32)">
+            <summary>
+            იძლევა მომხმარებელს Id-ით
+            </summary>
+            <remarks>
+            იძლევა მომხმარებელს Id-ით
+            </remarks>
+            <returns>მომხმარებელს Id-ით</returns>
+            <param name="id">მომხმარებლის id</param>
+        </member>
+        <member name="M:WebApiApp_.Controllers.CustomersController.AddCustomer(WebApiSolution.Domain.Models.AddCustomerRequest)">
+            <summary>
+            ამატებს ახალ მომხმარებელს
+            </summary>
+            <remarks>
+            ამატებს ახალ მომხმარებელს
+            </remarks>
+            <returns>დამატებული მომხმარებლის ობიექტს</returns>
+        </member>
+        <member name="M:WebApiApp_.Controllers.CustomersController.UpdateCustomer(System.Int32,WebApiSolution.Domain.Models.AddCustomerRequest)">
+            <summary>
+            ანახლებს მომხმარებელს
+            </summary>
+            <remarks>
+            ანახლებს მომხმარებელს
+            </remarks>
+            <returns>განახლებული მომხმარებლის ობიექტს</returns>
+        </member>
+        <member name="M:WebApiApp_.Controllers.CustomersController.DeleteCustomer(System.Int32)">
+            <summary>
+            შლის მომხმარებელს
+            </summary>
+            <remarks>
+            შლის მომხმარებელს
+            </remarks>
+            <returns>წაშლილი მომხმარებლის ობიექტს</returns>
+        </member>
+        <member name="M:WebApiApp_.Controllers.OrdersController.GetAllOrders">
+            <summary>
+            იძლევა ყველა შეკვეთას
+            </summary>
+            <remarks>
+            იძლევა ყველა შეკვეთას
+            </remarks>
+            <returns>ყველა შეკვეთა</returns>
+        </member>
+        <member name="M:WebApiApp_.Controllers.OrdersController.GetOrderById(System.Int32)">
+            <summary>
+            იძლევა შეკვეთას სრულად ID - ით
+            </summary>
+            <remarks>
+            იძლევა შეკვეთას სრულად ID - ით
+            </remarks>
+            <returns>შეკვეთა ID - ით.</returns>
+        </member>
+        <member name="M:WebApiApp_.Controllers.OrdersController.AddOrder(WebApiSolution.Domain.Models.AddOrderRequest)">
+            <summary>
+            ამატებს შეკვეთას
+            </summary>
+            <remarks>
+            ამატებს შეკვეთას
+            </remarks>
+            <returns>შეკვეთის ობიექტს</returns>
+        </member>
+        <member name="M:WebApiApp_.Controllers.OrdersController.UpdateOrder(System.Int32,WebApiSolution.Domain.Models.AddOrderRequest)">
+            <summary>
+            ანახლებს შეკვეთას
+            </summary>
+            <remarks>
+            ანახლებს შეკვეთას
+            </remarks>
+            <returns>განახლებულ შეკვეთას</returns>
+        </member>
+        <member name="M:WebApiApp_.Controllers.OrdersController.DeleteOrder(System.Int32)">
+            <summary>
+            შლის შეკვეთას
+            </summary>
+            <remarks>
+            შლის
+            </remarks>
+            <returns>წაშლილი შეკვეთის ობიექტს</returns>
+        </member>
+        <member name="M:WebApiApp_.Controllers.OrdersController.GetOrdersForCustomer(System.Int32)">
+            <summary>
+            იძლევა კონკრეტული მომხმარებლის შეკვეთების ჩამონათვალს
+            </summary>
+            <remarks>
+            იძლევა კონკრეტული მომხმარებლის შეკვეთების ჩამონათვალს
+            </remarks>
+            <returns>კონკრეტული მომხმარებლის შეკვეთების ჩამონათვალს</returns>
+        </member>
+        <member name="M:WebApiApp_.Controllers.OrdersController.GetTotalPriceForCustomer(System.Int32)">
+            <summary>
+            იძლევა კონკრეტული მომხმარებლის შეკვეთების ჯამურ ღირებულებას
+            </summary>
+            <remarks>
+            იძლევა კონკრეტული მომხმარებლის შეკვეთების ჯამურ ღირებულებას
+            </remarks>
+            <returns>კონკრეტული მომხმარებლის შეკვეთების ჯამურ ღირებულებას</returns>
+        </member>
+        <member name="M:WebApiApp_.Controllers.OrdersController.GetTotalPricePerCustomer">
+            <summary>
+            იძლევა ყველა მომხმარებლის შეკვეთების ჯამურ ღირებულებას მომხმარებელ / მომხმარებელ
+            </summary>
+            <remarks>
+            იძლევა ყველა მომხმარებლის შეკვეთების ჯამურ ღირებულებას მომხმარებელ / მომხმარებელ
+            </remarks>
+            <returns>ყველა მომხმარებლის შეკვეთების ჯამურ ღირებულებას მომხმარებელ / მომხმარებელ</returns>
+        </member>
+    </members>
+</doc>
